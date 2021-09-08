@@ -1,4 +1,6 @@
-﻿using System.Numerics;
+﻿//https://www.codewars.com/kata/53d40c1e2f13e331fc000c26
+
+using System.Numerics;
 using System.Collections.Generic;
 using System;
 using System.Linq;

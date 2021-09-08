@@ -1,5 +1,20 @@
-﻿using System;
+﻿//https://www.codewars.com/kata/52bef5e3588c56132c0003bc
+
 using System.Collections.Generic;
+
+public class Node
+{
+    public Node Left;
+    public Node Right;
+    public int Value;
+
+    public Node(Node l, Node r, int v)
+    {
+        Left = l;
+        Right = r;
+        Value = v;
+    }
+}
 
 class Kata
 {
